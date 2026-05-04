@@ -29,7 +29,7 @@
     </ul>
 
     <h3>2. Smartphone Project</h3>
-    <p><em>(Replace this text with a brief 1-2 sentence description of what the smartphone project does and what technology you used.)</em></p>
+    <p><em>(A small university project to build a Smartphone app.)</em></p>
 
     <h2>🌍 Languages</h2>
     <ul>
