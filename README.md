@@ -3,7 +3,7 @@
 
 Welcome to my portfolio! I am currently studying CSE at Leading University with a strong interest in building practical software solutions.
 
----
+
 
 ## 🎓 Education
 
@@ -14,7 +14,7 @@ Welcome to my portfolio! I am currently studying CSE at Leading University with 
 * **Secondary School Certificate (SSC)**
   * Chhatak Cement Factory High School (Passing Year: 2019)
 
----
+
 
 ## 💻 Projects
 
@@ -25,7 +25,7 @@ A comprehensive, large-scale healthcare platform designed to connect patients wi
 ### 2. Smartphone Project
 *(A brief description of what this project does—e.g., A mobile application built using X technology to solve Y problem.)*
 
----
+
 
 ## 🌍 Languages
 
@@ -33,7 +33,6 @@ A comprehensive, large-scale healthcare platform designed to connect patients wi
 * **English:** Proficient
 * **Hindi:** Proficient
 
----
 
 ## 📬 Contact Me
 * **Email:** siddikshahriar25@gmail.com
