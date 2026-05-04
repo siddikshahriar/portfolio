@@ -40,7 +40,7 @@
 
     <h2>📬 Contact Me</h2>
     <ul>
-      <li><strong>Email:</strong> your.email@example.com</li>
+      <li><strong>Email:</strong> siddikshahriar25@gmail.com </li>
       <li><strong>GitHub:</strong> <a href="https://github.com/siddikshahriar" target="_blank">View My GitHub</a></li>
     </ul>
 
